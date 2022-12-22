@@ -1,1 +1,1 @@
-# -Blockchain-Development-Sophomore
+# Blockchain-Development-Sophomore
